@@ -1,7 +1,7 @@
 ![banner](https://github.com/OmDhapodkar/OmDhapodkar/assets/81022361/46a2614d-6fad-458f-9edf-1c9a0326db52)
 
 <p align="center">
-    <h2 style="margin-top: 20px; margin-bottom: 20px;">My Stats</h2>
+    <h2 style="margin-top: 20px; margin-bottom: 20px;text-align: center">My Stats</h2>
 </p>
 
 
