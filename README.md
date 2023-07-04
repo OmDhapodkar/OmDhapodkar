@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OmDhapodkar&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmDhapodkar&theme=dark&border_radius=5&card_width=500&ring=EB2727&border=EB3636)](https://git.io/streak-stats)
+
 <!--
 **OmDhapodkar/OmDhapodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
