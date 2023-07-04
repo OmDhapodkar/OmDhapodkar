@@ -1,4 +1,4 @@
-![GitHubBG](https://github.com/OmDhapodkar/OmDhapodkar/assets/81022361/2584c717-f0f0-4afa-8bee-dcdcdbbf8afc)
+![banner](https://github.com/OmDhapodkar/OmDhapodkar/assets/81022361/46a2614d-6fad-458f-9edf-1c9a0326db52)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDhapodkar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
