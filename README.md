@@ -21,6 +21,10 @@
     <h2 style="margin-top: 20px; margin-bottom: 20px;">My Streak</h2>
 </div>
 
+<div align="center">
+    <h2 style="margin-top: 20px; margin-bottom: 20px;">My Skills</h2>
+</div>
+
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=OmDhapodkar&theme=dark&border_radius=5&card_width=500&ring=EB2727&border=EB3636" alt="GitHub Streak">
