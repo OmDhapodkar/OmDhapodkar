@@ -1,8 +1,8 @@
-### Hi there 👋
-
 ![GitHubBG](https://github.com/OmDhapodkar/OmDhapodkar/assets/81022361/2584c717-f0f0-4afa-8bee-dcdcdbbf8afc)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDhapodkar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OmDhapodkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **OmDhapodkar/OmDhapodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
