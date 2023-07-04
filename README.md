@@ -1,12 +1,17 @@
 ![banner](https://github.com/OmDhapodkar/OmDhapodkar/assets/81022361/46a2614d-6fad-458f-9edf-1c9a0326db52)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDhapodkar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDhapodkar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OmDhapodkar&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=OmDhapodkar&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-<p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?        user=OmDhapodkar&theme=dark&border_radius=5&card_width=500&ring=EB2727&border=EB3636)](https://git.io/streak-stats)
-</p>
+<div align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmDhapodkar&theme=dark&border_radius=5&card_width=500&ring=EB2727&border=EB3636)](https://git.io/streak-stats)
+</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
